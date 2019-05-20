@@ -9,6 +9,9 @@ public class Test {
 		System.out.println("属兔");
 		System.out.println("属兔");
 		System.out.println("属兔");
+		System.out.println("属兔");
+		System.out.println("属兔");
+		System.out.println("属兔");
 	}
 
 }
